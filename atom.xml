@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://3rdmirror.github.io</id>
+    <title>三镜的博客</title>
+    <updated>2025-03-15T03:54:15.020Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://3rdmirror.github.io"/>
+    <link rel="self" href="https://3rdmirror.github.io/atom.xml"/>
+    <subtitle>夫以铜为镜，可以正衣冠；以史为镜，可以知兴替；以人为镜，可以明得失</subtitle>
+    <logo>https://3rdmirror.github.io/images/avatar.png</logo>
+    <icon>https://3rdmirror.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, 三镜的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[六秒钟后你会恨死我，但六个月后你会成为更好的作家]]></title>
+        <id>https://3rdmirror.github.io/post/liu-miao-zhong-hou-ni-hui-hen-si-wo-dan-liu-ge-yue-hou-ni-hui-cheng-wei-geng-hao-de-zuo-jia/</id>
+        <link href="https://3rdmirror.github.io/post/liu-miao-zhong-hou-ni-hui-hen-si-wo-dan-liu-ge-yue-hou-ni-hui-cheng-wei-geng-hao-de-zuo-jia/">
+        </link>
+        <updated>2025-03-14T13:14:28.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://3rdmirror.github.io/post/hello-gridea/</id>
+        <link href="https://3rdmirror.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
